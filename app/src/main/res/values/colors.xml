@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Default Theme Colors -->
+    <color name="purple_200">#4DFFF0</color>
+    <color name="purple_500">#9570CA</color>
+    <color name="purple_700">#3700B3</color>
+    <color name="teal_200">#03DAC5</color>
+    <color name="teal_700">#018786</color>
+    <color name="black">#000000</color>
+    <color name="white">#FFFFFF</color>
+
+    <!-- Quiz-specific Colors -->
+    <color name="selectedOption">#CCCCCC</color>      <!-- Light Gray for selected option -->
+    <color name="correctAnswer">#4CAF50</color>       <!-- Green for correct answer -->
+    <color name="wrongAnswer">#F44336</color>
+    <color name="defaultOption">#DDDDDD</color>
+    <!-- light gray --><!-- Red for wrong answer -->
+    <color name="buttonDarkBlue">#0D47A1</color> <!-- Dark Blue -->
+    <color name="buttonTextLight">#FFFFFF</color> <!-- White text -->
+
+</resources>

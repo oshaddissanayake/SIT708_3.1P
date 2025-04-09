@@ -1,0 +1,56 @@
+{
+  "questions": [
+    {
+      "question": "What is the capital city of Canada?",
+      "options": ["Toronto", "Vancouver", "Ottawa", "Montreal"],
+      "correct_answer": "Ottawa"
+    },
+    {
+      "question": "Which element has the chemical symbol 'O'?",
+      "options": ["Oxygen", "Osmium", "Gold", "Ozone"],
+      "correct_answer": "Oxygen"
+    },
+    {
+      "question": "In which year did the Titanic sink?",
+      "options": ["1902", "1912", "1922", "1932"],
+      "correct_answer": "1912"
+    },
+    {
+      "question": "Who wrote the Harry Potter series?",
+      "options": ["J.R.R. Tolkien", "J.K. Rowling", "Stephen King", "Rick Riordan"],
+      "correct_answer": "J.K. Rowling"
+    },
+    {
+      "question": "Which country is famous for inventing pizza?",
+      "options": ["France", "USA", "Greece", "Italy"],
+      "correct_answer": "Italy"
+    },
+    {
+      "question": "Which ocean is the largest?",
+      "options": ["Atlantic", "Indian", "Pacific", "Arctic"],
+      "correct_answer": "Pacific"
+    },
+    {
+      "question": "Which animal can be seen on the Porsche logo?",
+      "options": ["Horse", "Lion", "Eagle", "Tiger"],
+      "correct_answer": "Horse"
+    },
+    {
+      "question": "Which language has the most native speakers?",
+      "options": ["English", "Spanish", "Hindi", "Mandarin"],
+      "correct_answer": "Mandarin"
+    },
+    {
+      "question": "What is the hardest natural substance on Earth?",
+      "options": ["Gold", "Iron", "Diamond", "Quartz"],
+      "correct_answer": "Diamond"
+    },
+    {
+      "question": "Which planet is known for its rings?",
+      "options": ["Mars", "Saturn", "Jupiter", "Neptune"],
+      "correct_answer": "Saturn"
+    }
+  ]
+}
+
+
